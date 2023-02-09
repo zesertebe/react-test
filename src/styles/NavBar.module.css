@@ -1,0 +1,19 @@
+.NavBar{
+	width: 100%;
+	height: 50px;
+	position: fixed;
+	top: 0;
+}
+.NavBar__ul{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+	list-style: none;
+	width: 100%;
+	height: 100%;
+}
+.NavBar__ul__li{
+	text-decoration: none;
+	color: #fff;
+}
