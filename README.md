@@ -3,7 +3,6 @@
 Este es mi presentación del test de Frontend Developer con react
 basadao en la prueba [vuejs-test](https://github.com/djhrcode/test-vuejs)
 
-
 ## Info
 
 Para ejecutar el proyecto:
